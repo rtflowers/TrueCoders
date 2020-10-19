@@ -1,0 +1,8 @@
+Decide pizza
+Decide what type of pizza I want
+Will call pizza place 
+Order the pizza 
+ 4a. Pay over phone 
+ 4b. Pay at door 
+6. Wait for delivery 
+7. See step 4b if necessary 
